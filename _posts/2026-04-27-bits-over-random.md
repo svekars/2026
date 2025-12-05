@@ -5,7 +5,6 @@ description: For most of the history of information retrieval (IR), search resul
 date: 2026-04-27
 future: true
 htmlwidgets: true
-hidden: true
 
 # Mermaid diagrams
 mermaid:
