@@ -350,7 +350,7 @@ Both systems maintain strong selectivity even at **K=100**, with BoR staying abo
 
 This confirms that when $$\lambda = \frac{K \cdot \bar{R}_q}{N} \ll 1$$ (well outside the collapse zone), retrieval systems can demonstrate meaningful selectivity over random chance.
 
-{% include figure.liquid path="assets/img/2026-04-27-bits-over-random/boR_analysis_scifact.png" class="img-fluid" %}
+{% include figure.liquid path="assets/img/2026-04-27-bits-over-random/bor_analysis_scifact.png" class="img-fluid" %}
 
 **Figure 1:** *BoR analysis on the SciFact dataset shows sustained selectivity across retrieval depths. Both BM25 and SPLADE maintain high BoR values (5–11 bits), reflecting the dataset's sparse relevance structure.*
 
